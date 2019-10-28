@@ -1,0 +1,6 @@
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\bin\Debug\WindowsApplication.exe
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\bin\Debug\WindowsApplication.pdb
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\obj\x86\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\obj\x86\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Hanzi\SURFdrive\Werk\C#\Shapes\obj\x86\Debug\WindowsApplication.pdb
